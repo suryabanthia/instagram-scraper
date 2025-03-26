@@ -1,0 +1,63 @@
+2025-03-26 19:27:04,583 - INFO - Starting Flask server...
+2025-03-26 19:27:04,646 - WARNING -  * Debugger is active!
+2025-03-26 19:27:04,667 - INFO -  * Debugger PIN: 696-868-227
+2025-03-26 19:29:35,109 - INFO - Starting Flask server...
+2025-03-26 19:29:35,169 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.167:5000
+2025-03-26 19:29:35,170 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-26 19:29:35,175 - INFO -  * Restarting with stat
+2025-03-26 19:29:35,915 - INFO - Starting Flask server...
+2025-03-26 19:29:35,932 - WARNING -  * Debugger is active!
+2025-03-26 19:29:35,938 - INFO -  * Debugger PIN: 696-868-227
+2025-03-26 19:32:57,092 - INFO -  * Detected change in 'C:\\Users\\surya\\instagram-scraper\\app.py', reloading
+2025-03-26 19:32:57,571 - INFO -  * Restarting with stat
+2025-03-26 19:32:59,315 - INFO - Starting Flask server...
+2025-03-26 19:32:59,375 - WARNING -  * Debugger is active!
+2025-03-26 19:32:59,388 - INFO -  * Debugger PIN: 696-868-227
+2025-03-26 19:33:37,621 - INFO - Starting Flask server...
+2025-03-26 19:33:37,662 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.167:5000
+2025-03-26 19:33:37,663 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-26 19:33:37,665 - INFO -  * Restarting with stat
+2025-03-26 19:33:38,346 - INFO - Starting Flask server...
+2025-03-26 19:33:38,367 - WARNING -  * Debugger is active!
+2025-03-26 19:33:38,373 - INFO -  * Debugger PIN: 696-868-227
+2025-03-26 19:37:27,741 - INFO -  * Detected change in 'C:\\Users\\surya\\instagram-scraper\\app.py', reloading
+2025-03-26 19:37:28,637 - INFO -  * Restarting with stat
+2025-03-26 19:37:30,412 - INFO - Starting Flask server...
+2025-03-26 19:37:30,556 - WARNING -  * Debugger is active!
+2025-03-26 19:37:30,571 - INFO -  * Debugger PIN: 696-868-227
+2025-03-26 19:38:19,047 - INFO - Starting Flask server...
+2025-03-26 19:38:19,253 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.167:5000
+2025-03-26 19:38:19,254 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-26 19:38:19,256 - INFO -  * Restarting with stat
+2025-03-26 19:38:19,868 - INFO - Starting Flask server...
+2025-03-26 19:38:19,886 - WARNING -  * Debugger is active!
+2025-03-26 19:38:19,892 - INFO -  * Debugger PIN: 696-868-227
+2025-03-26 19:40:22,511 - INFO -  * Detected change in 'C:\\Users\\surya\\instagram-scraper\\app.py', reloading
+2025-03-26 19:40:23,299 - INFO -  * Restarting with stat
+2025-03-26 19:40:24,326 - INFO - Starting Flask server...
+2025-03-26 19:40:24,326 - INFO - Available routes: /, /test, /scrape_followers
+2025-03-26 19:40:24,366 - WARNING -  * Debugger is active!
+2025-03-26 19:40:24,380 - INFO -  * Debugger PIN: 696-868-227
+2025-03-26 19:41:35,520 - INFO - Starting Flask server...
+2025-03-26 19:41:35,521 - INFO - Available routes: /, /test, /scrape_followers
+2025-03-26 19:41:35,570 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.167:5000
+2025-03-26 19:41:35,571 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-26 19:41:35,574 - INFO -  * Restarting with stat
+2025-03-26 19:41:36,465 - INFO - Starting Flask server...
+2025-03-26 19:41:36,466 - INFO - Available routes: /, /test, /scrape_followers
+2025-03-26 19:41:36,486 - WARNING -  * Debugger is active!
+2025-03-26 19:41:36,494 - INFO -  * Debugger PIN: 696-868-227
+2025-03-26 19:43:52,128 - INFO -  * Detected change in 'C:\\Users\\surya\\instagram-scraper\\app.py', reloading
+2025-03-26 19:43:52,955 - INFO -  * Restarting with stat
